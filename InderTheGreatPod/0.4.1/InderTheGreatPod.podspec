@@ -36,7 +36,7 @@ s.source = { :git => "https://github.com/sahajbhaikanhaiya/thegreatpod.git", :ta
 
 # 7
 s.framework = "UIKit"
-
+# s.ios.dependency 'Alamofire', '~> 2.0'
 
 
 # 8
